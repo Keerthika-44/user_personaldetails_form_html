@@ -1,4 +1,5 @@
-User Personal Information Form
+User Personal Information Form:
+
 1 Project Description:
 
 This project is a simple HTML form that collects user personal information such as name, email, password, gender, date of birth, and address.
